@@ -6,7 +6,8 @@
 
 ## About Me
 
-I’m an **ISTQB Certified** professional with **12 years** of experience in the IT Services and Consulting industry. I specialize in API automation for E-commerce platforms and have a strong background in enhancing functionality and performance using tools like JMeter and the Karate framework. My expertise includes:
+With a proven track record in problem-solving and effective collaboration, I am passionate about software testing with a strong focus on **UI and API automation**. My extensive experience encompasses SDLC, test planning, defect reporting, and risk analysis, with a particular emphasis on leveraging Playwright for cross-browser end-to-end testing and Cypress for fast, reliable testing of modern web applications. My hands-on expertise includes functional, system, application, regression, integration, user acceptance, and smoke testing, including crafting and executing detailed test cases.
+
 
 - **Developing and executing test scripts** with Playwright
 - **Implementing Page Object Model (POM)** design patterns for improved test maintainability and reusability
@@ -15,8 +16,6 @@ I’m an **ISTQB Certified** professional with **12 years** of experience in the
 I have a proven track record in **problem-solving**, **decision-making**, and **effective collaboration**.
 
 📧 You can email me at: [nirmus@gmail.com](mailto:nirmus@gmail.com)
-
-📄 [Resume](your-resume-link)
 
 ## Connect with Me:
 
