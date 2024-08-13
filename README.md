@@ -1,6 +1,8 @@
 # Hello 👋, I'm Nirmala
 
-![Cover Image](https://github.com/nirmala-c-m/nirmala-c-m/blob/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.png?raw=true)
+![Cover Image](https://github.com/nirmala-c-m/nirmala-c-m/blob/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image%20(2).png)
+
+
 
 ## About Me
 
