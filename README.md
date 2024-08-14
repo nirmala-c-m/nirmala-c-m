@@ -18,9 +18,18 @@ I have a proven track record in **problem-solving**, **decision-making**, and **
 📧 You can email me at: [nirmus@gmail.com](mailto:nirmus@gmail.com)
 
 ## Connect with Me:
+</br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:nirmus@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40px" />
+  </a>
+  <a href="https://www.linkedin.com/in/nirmala-c/">
+    <img align="left" alt="nirmala LinkedIn" width="35px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
+  </a>
+</p>
+</br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmala-c/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:nirmus@gmail.com)
 
 ## Languages and Tools:
 
