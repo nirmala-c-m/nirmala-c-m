@@ -55,7 +55,7 @@ I have a proven track record in **problem-solving**, **decision-making**, and **
 
 <p align="left"> 
 <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chai/chai-original.svg" height="40" width="52" alt="Chai logo" />
+<img src="https://github.com/nirmala-c-m/nirmala-c-m/blob/main/chai.jpg" height="40" width="52" alt="Chai logo" />
 <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" height="40" width="40" alt="junit logo"  />
 <img src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png" height="40" width="40" alt="testng logo"  />
 <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" height="40" width="45" alt="cucumber logo"  />
