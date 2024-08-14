@@ -37,6 +37,25 @@ I have a proven track record in **problem-solving**, **decision-making**, and **
 </p>
 
 ### Frameworks and Testing Tools:
+<p align="left"> 
+<img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height="40" width="40" alt="selenium logo"  />
+<img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="40" width="40" alt="cypress logo"  />
+</p>
+ 
+ <p align="left"> 
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="52" alt="postman logo"  />
+<img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"  />
+</p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
+<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
+<img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" height="40" width="40" alt="junit logo"  />
+<img src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png" height="40" width="40" alt="testng logo"  />
+<img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" height="40" width="45" alt="cucumber logo"  />
+<img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+</p>
 ![Playwright](https://img.shields.io/badge/-Playwright-green?logo=microsoft&style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/-Cypress-gray?logo=cypress&logoColor=white&style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
@@ -51,9 +70,12 @@ I have a proven track record in **problem-solving**, **decision-making**, and **
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-blue?logo=owasp&style=for-the-badge)
 
 ### IDEs:
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=intellij-idea&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code&style=for-the-badge)
-![Eclipse](https://img.shields.io/badge/-Eclipse-purple?logo=eclipse&style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
+</p>
+
 
 ### CI/CD and DevOps Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
