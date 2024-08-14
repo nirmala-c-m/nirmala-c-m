@@ -74,7 +74,7 @@ I have a proven track record in **problem-solving**, **decision-making**, and **
 
 
 <p align="left"> 
-![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-blue?logo=owasp&style=for-the-badge) 
+<img src="https://github.com/nirmala-c-m/nirmala-c-m/blob/main/zap.svg" alt="docker" width="40" height="40"/> 
 //burpsuite
 </p>
 
