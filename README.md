@@ -49,7 +49,7 @@ I have a proven track record in **problem-solving**, **decision-making**, and **
 <p align="left"> 
 <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height="40" width="40" alt="selenium logo"  />
 <img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="40" width="40" alt="cypress logo"  />
- ![Playwright](https://img.shields.io/badge/-Playwright-green?logo=microsoft&style=for-the-badge)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" width="52" alt="Playwright logo" />
 </p>
 
 
@@ -64,18 +64,12 @@ I have a proven track record in **problem-solving**, **decision-making**, and **
 <p align="left"> 
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="52" alt="postman logo"  />
 <img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"  />
-  ![Karate](https://img.shields.io/badge/-Karate-0D9488?logo=karate&style=for-the-badge)
+<img src="https://github.com/nirmala-c-m/nirmala-c-m/blob/main/Karate%20Labs.png" alt="java" width="40" height="40"/> 
 </p>
-
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-</p>
-
 
 <p align="left"> 
 <img src="https://github.com/nirmala-c-m/nirmala-c-m/blob/main/zap.svg" alt="docker" width="40" height="40"/> 
-//burpsuite
+<img src="https://github.com/nirmala-c-m/nirmala-c-m/blob/main/burp-suite-icon.jpg" alt="java" width="40" height="40"/> 
 </p>
 
 
@@ -100,8 +94,7 @@ I have a proven track record in **problem-solving**, **decision-making**, and **
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original.svg" height="40" width="52" alt="InfluxDB logo" />
-
-![DBeaver](https://img.shields.io/badge/-DBeaver-blue?logo=dbeaver&style=for-the-badge)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" width="52" alt="DBeaver logo" />
 </p>
 
 ### Version Control:
