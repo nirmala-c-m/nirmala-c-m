@@ -25,12 +25,16 @@ I have a proven track record in **problem-solving**, **decision-making**, and **
 ## Languages and Tools:
 
 ### Operating Systems:
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<img src="https://devicons.railway.app/i/windows10.svg" alt="Windows" width="40" height="40"/>
+</p>
 
 ### Programming Languages:
-![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge)
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
 
 ### Frameworks and Testing Tools:
 ![Playwright](https://img.shields.io/badge/-Playwright-green?logo=microsoft&style=for-the-badge)
