@@ -1,4 +1,4 @@
-# Hello 👋, I'm Nirmala
+ # Hello , I'm <a href="https://www.linkedin.com/in/nirmala-c/" target="_blank">Nirmala</a>
 
 ![Cover Image](https://github.com/nirmala-c-m/nirmala-c-m/blob/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image%20(2).png)
 
@@ -11,7 +11,7 @@ With a proven track record in problem-solving and effective collaboration, I am 
 
 - **Developing and executing test scripts** with Playwright
 - **Implementing Page Object Model (POM)** design patterns for improved test maintainability and reusability
-- **Integrating cucmber BDD for structured test execution and reporting
+- **Integrating cucumber BDD for structured test execution and reporting
 
 I have a proven track record in **problem-solving**, **decision-making**, and **effective collaboration**.
 
