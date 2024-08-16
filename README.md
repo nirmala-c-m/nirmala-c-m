@@ -15,7 +15,6 @@ With a proven track record in problem-solving and effective collaboration, I am 
 
 I have a proven track record in **problem-solving**, **decision-making**, and **effective collaboration**.
 
-📧 You can email me at: [nirmus@gmail.com](mailto:nirmus@gmail.com)
 
 ## Connect with Me:
 </br>
