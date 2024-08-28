@@ -18,7 +18,6 @@ I have a proven track record in **problem-solving**, **decision-making**, and **
 
 ## Connect with Me:
 </br>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:nirmus@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40px" />
