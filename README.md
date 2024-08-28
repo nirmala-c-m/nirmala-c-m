@@ -44,14 +44,14 @@ I have a proven track record in **problem-solving**, **decision-making**, and **
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
-### Frameworks and Testing Tools:
+### UI Test Automation Tools:
 <p align="left"> 
 <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height="40" width="40" alt="selenium logo"  />
 <img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="40" width="40" alt="cypress logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" width="52" alt="Playwright logo" />
 </p>
 
-
+###  Testing Frameworks:
 <p align="left"> 
 <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
 <img src="https://github.com/nirmala-c-m/nirmala-c-m/blob/main/chai.jpg" height="40" width="52" alt="Chai logo" />
@@ -59,13 +59,15 @@ I have a proven track record in **problem-solving**, **decision-making**, and **
 <img src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png" height="40" width="40" alt="testng logo"  />
 <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" height="40" width="45" alt="cucumber logo"  />
 </p>
- 
+
+### API Test Automation Tools:
 <p align="left"> 
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="52" alt="postman logo"  />
 <img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"  />
 <img src="https://github.com/nirmala-c-m/nirmala-c-m/blob/main/Karate%20Labs.png" alt="java" width="40" height="40"/> 
 </p>
 
+### security Testing Tools:
 <p align="left"> 
 <img src="https://github.com/nirmala-c-m/nirmala-c-m/blob/main/zap.svg" alt="docker" width="40" height="40"/> 
 <img src="https://github.com/nirmala-c-m/nirmala-c-m/blob/main/burp-suite-icon.jpg" alt="java" width="40" height="40"/> 
