@@ -9,9 +9,9 @@
 With a proven track record in problem-solving and effective collaboration, I am passionate about software testing with a strong focus on **UI and API automation**. My extensive experience encompasses SDLC, test planning, defect reporting, and risk analysis, with a particular emphasis on leveraging Playwright for cross-browser end-to-end testing and Cypress for fast, reliable testing of modern web applications. My hands-on expertise includes functional, system, application, regression, integration, user acceptance, and smoke testing, including crafting and executing detailed test cases.
 
 
-- **Developing and executing test scripts** with Playwright
-- **Implementing Page Object Model (POM)** design patterns for improved test maintainability and reusability
-- **Integrating cucumber BDD for structured test execution and reporting
+- **Developing and executing test scripts** with Selenium ,Cypress & Playwright.
+- **Implementing Page Object Model (POM)** design patterns for improved test maintainability and reusability.
+- **Integrating cucumber BDD** for structured test execution and reporting.
 
 I have a proven track record in **problem-solving**, **decision-making**, and **effective collaboration**.
 
